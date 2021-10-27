@@ -1,4 +1,4 @@
-# Uptime Bot
+# Uptims Bot
 
 ## _This Uptime Bot_
 
